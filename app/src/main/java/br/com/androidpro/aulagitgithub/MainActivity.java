@@ -83,15 +83,15 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_camera) {
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
-            return true;
+
         } else if (id == R.id.nav_slideshow) {
-            return true;
+
         } else if (id == R.id.nav_manage) {
-            return true;
+
         } else if (id == R.id.nav_share) {
-            return true;
+
         } else if (id == R.id.nav_send) {
-            return true;
+
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
